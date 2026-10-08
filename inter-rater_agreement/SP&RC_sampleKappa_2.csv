@@ -1,0 +1,70 @@
+﻿Issue_ID,System,Issue_URL,PR_URL,Symptom_Main,Symptom_Sub,Symptom_Stage,RootCause_Main,RootCause_Sub,RootCause_Stage
+labring_FastGPT_4840,labring_FastGPT,https://github.com/labring/FastGPT/issues/4840,https://github.com/labring/FastGPT/pull/4853,SP-A,SP-A2,S5,RC-A,RC-A4 > A4.1,S5
+eosphoros-ai_DB-GPT_2439,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2439,https://github.com/eosphoros-ai/DB-GPT/pull/2443,SP-A,SP-A2,S5,RC-A,RC-A4 > A4.6,S5
+eosphoros-ai_DB-GPT_1394,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1394,,SP-A,SP-A2 > A2.5,S5,RC-B,RC-B3,S5
+infiniflow_ragflow_1340,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/1340,,SP-A,SP-A2 > A2.5,S5,RC-A,RC-A1,S5
+eosphoros-ai_DB-GPT_2554,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2554,https://github.com/eosphoros-ai/DB-GPT/pull/2555,SP-A,SP-A2 > A2.5,S5,RC-A,RC-A4 > A4.1,S5
+infiniflow_ragflow_7725,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7725,https://github.com/infiniflow/ragflow/pull/7772,SP-A,SP-A2 > A2.3,S3,RC-A,RC-A2,S3
+microsoft_graphrag_1137,microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1137,,SP-B,SP-B1,S1,RC-B,RC-B1,S1
+infiniflow_ragflow_1250,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/1250,,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B3,S1
+eosphoros-ai_DB-GPT_719,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/719,https://github.com/eosphoros-ai/DB-GPT/pull/732,SP-B,SP-B1,S5,RC-A,RC-A1,S5
+eosphoros-ai_DB-GPT_2184,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2184,https://github.com/eosphoros-ai/DB-GPT/pull/2290,SP-A,SP-A2 > A2.0,S0,RC-A,RC-A5,S0
+eosphoros-ai_DB-GPT_1642,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1642,,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B1,S1
+logancyang_obsidian-copilot_1591,logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1591,,SP-A,SP-A2 > A2.5,S5,RC-A,RC-A4 > A4.1,S5
+eosphoros-ai_DB-GPT_2224,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2224,https://github.com/dusx1981/DB-GPT/pull/1,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A5,S0
+infiniflow_ragflow_8804,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8804,https://github.com/infiniflow/ragflow/pull/8844,SP-B,SP-B1,S1,RC-A,RC-A2,S1
+QuivrHQ_quivr_2384,QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2384,https://github.com/QuivrHQ/quivr/pull/2388,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A1,S0
+OSU-NLP-Group_HippoRAG_31,OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/31,https://github.com/OSU-NLP-Group/HippoRAG/pull/32,SP-A,SP-A2 > A2.3,S3,RC-A,RC-A1,S3
+eosphoros-ai_DB-GPT_2849,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2849,https://github.com/eosphoros-ai/DB-GPT/pull/2850,SP-A,SP-A2 > A2.5,S5,RC-A,RC-A4 > A4.1,S5
+infiniflow_ragflow_8226,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8226,,SP-A,SP-A1,S0,RC-B,RC-B4,S0
+labring_FastGPT_637,labring_FastGPT,https://github.com/labring/FastGPT/issues/637,,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B1,S1
+eosphoros-ai_DB-GPT_2741,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2741,https://github.com/eosphoros-ai/DB-GPT/pull/2812,SP-B,SP-B1,S5,RC-A,RC-A4 > A4.1,S4
+HKUDS_LightRAG_1745,HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1745,https://github.com/HKUDS/LightRAG/pull/1743,SP-B,SP-B2,S1,RC-A,RC-A4 > A4.2,S1
+microsoft_graphrag_1208,microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1208,,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A5,S1
+infiniflow_ragflow_4003,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4003,https://github.com/infiniflow/ragflow/pull/4006,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A2,S1
+infiniflow_ragflow_8719,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8719,https://github.com/infiniflow/ragflow/pull/8775,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A2,S1
+OSU-NLP-Group_HippoRAG_76,OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/76,https://github.com/OSU-NLP-Group/HippoRAG/commit/2f05c2759e51c8959d606138d6df72e259e8f420,SP-A,SP-A2 > A2.0,S1,RC-A,RC-A1,S1
+QuivrHQ_quivr_2056,QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2056,,SP-A,SP-A2 > A2.3,S3,RC-A,RC-A1,S3
+infiniflow_ragflow_3700,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3700,https://github.com/infiniflow/ragflow/pull/3866,SP-A,SP-A2 > A2.4,S4,RC-A,RC-A4 > A4.1,S4
+labring_FastGPT_2770,labring_FastGPT,https://github.com/labring/FastGPT/issues/2770,,SP-B,SP-B1,S5,RC-A,RC-A4 > A4.1,S5
+labring_FastGPT_2780,labring_FastGPT,https://github.com/labring/FastGPT/issues/2780,,SP-A,SP-A3,S5,RC-A,RC-A4 > A4.1,S5
+infiniflow_ragflow_6308,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/6308,https://github.com/infiniflow/ragflow/pull/6401,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A2,S1
+infiniflow_ragflow_7702,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7702,,SP-B,SP-B1,S5,RC-B,RC-B3,S3
+logancyang_obsidian-copilot_1270,logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1270,https://github.com/logancyang/obsidian-copilot/pull/1274,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B1,S1
+arc53_DocsGPT_276,arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/276,https://github.com/arc53/DocsGPT/pull/278,SP-A,SP-A2 > A2.3,S3,RC-A,RC-A1,S0
+microsoft_graphrag_1390,microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1390,,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A2,S1
+OSU-NLP-Group_HippoRAG_53,OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/53,,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B1,S1
+microsoft_graphrag_1859,microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1859,,SP-A,SP-A2 > A2.5,S5,RC-B,RC-B1,S0
+labring_FastGPT_3791,labring_FastGPT,https://github.com/labring/FastGPT/issues/3791,,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B1,S5
+OSU-NLP-Group_HippoRAG_6,OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/6,,SP-A,SP-A2 > A2.0,S1,RC-B,RC-B4,S0
+infiniflow_ragflow_1159,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/1159,https://github.com/infiniflow/ragflow/pull/1214,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A1,S1
+eosphoros-ai_DB-GPT_1723,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1723,,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B1,S1
+infiniflow_ragflow_3153,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3153,https://github.com/infiniflow/ragflow/pull/3169,SP-A,SP-A2 > A2.3,S3,RC-A,RC-A2,S3
+HKUDS_LightRAG_1630,HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1630,,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A1,S1
+microsoft_graphrag_1476,microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1476,,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B2,S1
+HKUDS_LightRAG_951,HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/951,https://github.com/HKUDS/LightRAG/pull/969,SP-A,SP-A3,S1,RC-A,RC-A2,S1
+eosphoros-ai_DB-GPT_1571,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1571,,SP-A,SP-A2 > A2.0,S0,RC-B,RC-B3,S0
+HKUDS_LightRAG_1498,HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1498,,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B3,S0
+infiniflow_ragflow_5346,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/5346,,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A5,S0
+infiniflow_ragflow_1861,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/1861,https://github.com/infiniflow/ragflow/pull/1869,SP-B,SP-B1,S1,RC-A,RC-A2,S1
+infiniflow_ragflow_7449,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7449,,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A5,S0
+HKUDS_LightRAG_1785,HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1785,https://github.com/HKUDS/LightRAG/pull/1792,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A1,S0
+zylon-ai_private-gpt_517,zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/517,,SP-B,SP-B1,S5,RC-B,RC-B1,S5
+HKUDS_LightRAG_1813,HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1813,https://github.com/HKUDS/LightRAG/pull/1815,SP-A,SP-A2 > A2.4,S4,RC-A,RC-A4 > A4.7,S4
+infiniflow_ragflow_4278,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4278,,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B3,S5
+arc53_DocsGPT_1400,arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/1400,,SP-A,SP-A2 > A2.5,S5,RC-B,RC-B1,S5
+OSU-NLP-Group_HippoRAG_15,OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/15,,SP-A,SP-A2 > A2.1,S1,RC-B,RC-B1,S0
+arc53_DocsGPT_1400,arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/1400,,SP-A,SP-A2 > A2.5,S5,RC-B,RC-B1,S5
+infiniflow_ragflow_2749,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/2749,https://github.com/infiniflow/ragflow/pull/2799,SP-A,SP-A2 > A2.0,S0,RC-A,RC-A1,S0
+zylon-ai_private-gpt_351,zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/351,,SP-A,SP-A2 > A2.0,S0,RC-B,RC-B1,S0
+zylon-ai_private-gpt_218,zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/218,,SP-A,SP-A1,S5,RC-A,RC-A5,S0
+infiniflow_ragflow_8455,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8455,https://github.com/infiniflow/ragflow/pull/8398,SP-A,SP-A2 > A2.0,S1,RC-A,RC-A4 > A4.3,S0
+infiniflow_ragflow_1210,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/1210,https://github.com/infiniflow/ragflow/pull/1590,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A2,S1
+labring_FastGPT_3705,labring_FastGPT,https://github.com/labring/FastGPT/issues/3705,https://github.com/labring/FastGPT/pull/3720,SP-A,SP-A2 > A2.0,S0,RC-A,RC-A1,S0
+logancyang_obsidian-copilot_755,logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/755,,SP-A,SP-A2 > A2.0,S0,RC-B,RC-B1,S0
+eosphoros-ai_DB-GPT_2219,eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2219,https://github.com/eosphoros-ai/DB-GPT/pull/2230,SP-B,SP-B1,S5,RC-A,RC-A2,S5
+microsoft_graphrag_1601,microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1601,,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A3,S1
+OSU-NLP-Group_HippoRAG_121,OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/121,,SP-A,SP-A3,S5,RC-B,RC-B3,S5
+OSU-NLP-Group_HippoRAG_123,OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/123,https://github.com/OSU-NLP-Group/HippoRAG/pull/120,SP-A,SP-A2 > A2.1,S1,RC-A,RC-A2,S1
+labring_FastGPT_691,labring_FastGPT,https://github.com/labring/FastGPT/issues/691,,SP-B,SP-B1,S3,RC-B,RC-B2,S2
+infiniflow_ragflow_8556,infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8556,https://github.com/infiniflow/ragflow/pull/8590,SP-A,SP-A3,S1,RC-B,RC-B4,S0

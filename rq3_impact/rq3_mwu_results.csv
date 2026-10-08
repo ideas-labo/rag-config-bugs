@@ -1,0 +1,4 @@
+﻿Group,Low N,Low Median,High N,High Median,Multiplier,U statistic,p-value
+Overall,533,64.7,121,160.6,2.48x,26580.000,0.0025
+RC-A,393,58.5,83,165.2,2.83x,12857.000,0.0024
+RC-B,140,78.3,38,146.1,1.87x,2351.000,0.2735

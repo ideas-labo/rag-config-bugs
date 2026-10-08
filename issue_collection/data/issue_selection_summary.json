@@ -1,0 +1,88 @@
+{
+  "closed_candidate_count": 3258,
+  "included_count": 654,
+  "excluded_count": 2604,
+  "repositories": [
+    {
+      "repository": "infiniflow/ragflow",
+      "closed_candidates": 685,
+      "included": 217,
+      "excluded": 468,
+      "expected_closed": 685,
+      "expected_included": 217
+    },
+    {
+      "repository": "eosphoros-ai/DB-GPT",
+      "closed_candidates": 559,
+      "included": 120,
+      "excluded": 439,
+      "expected_closed": 559,
+      "expected_included": 120
+    },
+    {
+      "repository": "labring/FastGPT",
+      "closed_candidates": 412,
+      "included": 74,
+      "excluded": 338,
+      "expected_closed": 412,
+      "expected_included": 74
+    },
+    {
+      "repository": "microsoft/graphrag",
+      "closed_candidates": 152,
+      "included": 64,
+      "excluded": 88,
+      "expected_closed": 152,
+      "expected_included": 64
+    },
+    {
+      "repository": "HKUDS/LightRAG",
+      "closed_candidates": 197,
+      "included": 63,
+      "excluded": 134,
+      "expected_closed": 197,
+      "expected_included": 63
+    },
+    {
+      "repository": "logancyang/obsidian-copilot",
+      "closed_candidates": 353,
+      "included": 35,
+      "excluded": 318,
+      "expected_closed": 353,
+      "expected_included": 35
+    },
+    {
+      "repository": "zylon-ai/private-gpt",
+      "closed_candidates": 225,
+      "included": 31,
+      "excluded": 194,
+      "expected_closed": 225,
+      "expected_included": 31
+    },
+    {
+      "repository": "QuivrHQ/quivr",
+      "closed_candidates": 282,
+      "included": 22,
+      "excluded": 260,
+      "expected_closed": 282,
+      "expected_included": 22
+    },
+    {
+      "repository": "arc53/DocsGPT",
+      "closed_candidates": 318,
+      "included": 21,
+      "excluded": 297,
+      "expected_closed": 318,
+      "expected_included": 21
+    },
+    {
+      "repository": "OSU-NLP-Group/HippoRAG",
+      "closed_candidates": 75,
+      "included": 7,
+      "excluded": 68,
+      "expected_closed": 75,
+      "expected_included": 7
+    }
+  ],
+  "validation_errors": []
+}

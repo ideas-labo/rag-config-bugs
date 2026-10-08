@@ -1,0 +1,22 @@
+{
+  "snapshot_end": "2025-08-01",
+  "query_groups": [
+    "(config OR configuration OR setting OR option OR variable)",
+    "(parameter OR param OR tune OR tuning OR setup)",
+    "(env OR ini)",
+    "(database OR embedding OR vectorstore OR chunk OR splitter OR index)",
+    "(graph OR retriever OR reranker OR model OR prompt OR template)"
+  ],
+  "repositories": [
+    {"repo": "infiniflow/ragflow", "search_mode": "label", "bug_label": "🐞 bug", "expected_candidates": 1417, "expected_closed": 685, "expected_included": 217},
+    {"repo": "eosphoros-ai/DB-GPT", "search_mode": "label", "bug_label": "bug", "expected_candidates": 812, "expected_closed": 559, "expected_included": 120},
+    {"repo": "labring/FastGPT", "search_mode": "label", "bug_label": "bug", "expected_candidates": 494, "expected_closed": 412, "expected_included": 74},
+    {"repo": "microsoft/graphrag", "search_mode": "label", "bug_label": "bug", "expected_candidates": 195, "expected_closed": 152, "expected_included": 64},
+    {"repo": "HKUDS/LightRAG", "search_mode": "label", "bug_label": "bug", "expected_candidates": 214, "expected_closed": 197, "expected_included": 63},
+    {"repo": "logancyang/obsidian-copilot", "search_mode": "keyword_only", "expected_candidates": 564, "expected_closed": 353, "expected_included": 35},
+    {"repo": "zylon-ai/private-gpt", "search_mode": "label", "bug_label": "bug", "expected_candidates": 255, "expected_closed": 225, "expected_included": 31},
+    {"repo": "QuivrHQ/quivr", "search_mode": "label", "bug_label": "bug", "expected_candidates": 283, "expected_closed": 282, "expected_included": 22},
+    {"repo": "arc53/DocsGPT", "search_mode": "keyword_only", "expected_candidates": 332, "expected_closed": 318, "expected_included": 21},
+    {"repo": "OSU-NLP-Group/HippoRAG", "search_mode": "keyword_only", "expected_candidates": 86, "expected_closed": 75, "expected_included": 7}
+  ]
+}
